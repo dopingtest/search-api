@@ -47,4 +47,4 @@ __인기 검색어 목록:__
 - api 모듈과 batch 모듈은 bootJar = true 옵션으로 K8S 의 별도의 POD 으로 올라갑니다.
 - batch 모듈에서는 master 로 데이터 삽입을 진행하고, 검색 트래픽이 많아서 읽기 처리량을 올릴려면 Replication 진행하면 됩니다.
 
-> 현재 소스는, In-memory DB 제약 사항으로 batch 를 api 애플리케이션과 같이 묶어서 올리는 방향으로 과제 진행
+> 현재 소스는, In-memory DB 제약 사항으로 batch 를 api 애플리케이션과 같이 묶어서 올리는 방향으로 진행되었습니다.
