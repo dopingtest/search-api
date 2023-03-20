@@ -1,5 +1,8 @@
 # Blog-search
 
+__Executable Jar__
+- Download Link: https://drive.google.com/file/d/119JJQ-kxYyKRxM9UOePbSvZ5ndDU7VDn/view?usp=sharing
+
 __블로그 검색 API:__
 ```
 curl --location --request GET 'http://localhost:8080/v1/search/blog?query=kakao&provider=kakao&sort=ACCURACY&page=0&size=15'
