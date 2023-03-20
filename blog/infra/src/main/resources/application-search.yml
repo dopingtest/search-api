@@ -1,0 +1,7 @@
+search:
+  kakao:
+    endpoint: https://dapi.kakao.com
+    api-key: KakaoAK 0e17ec4c30ab30c20e77f2135eeac79d
+  naver:
+    endpoint: https://naver.com
+    api-key: test
